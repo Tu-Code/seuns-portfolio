@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "gRPC Kafka Messaging System 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "gRPC-based messaging system built using NestJS and Apache Kafka. The project provides a simple and scalable solution for communicating between different services in a distributed system. It uses gRPC for reliable and efficient communication between services. ",
+    url: "https://github.com/Tu-Code/Nestjs-Kafka",
   },
   {
-    title: "Web Development for Beginners",
+    title: "P2P Paystack Wallet API",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The P2P wallet system is a fast, secure and easy way to make use of this web application; it enables users fund their personal accounts and transfer to other users within the system. This application utilizes the PayStack API.",
+    url: "https://github.com/Tu-Code/P2P-Wallet.git ",
   },
   {
-    title: "My Resume Site",
+    title: " User Management CRUD API with UI",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " User Management CRUD API with Front-end UI for easier User Experience. Tools used: MongoDB, Mongoose, Node.js, Express, Vue.js, HTML, CSS, Bootstrap.",
+    url: "https://github.com/Tu-Code/User-Management ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "ILuvCoffee CRUD API",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It allows users to Create, Read, Update, and Delete (CRUD) coffee data using gRPC, a high-performance open-source RPC framework. The project aims to provide a simple and efficient solution for managing coffee data in a distributed system.",
+    url: "https://github.com/Tu-Code/Iluvcoffee",
   },
 ];
 
